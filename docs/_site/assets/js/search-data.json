@@ -1,0 +1,926 @@
+{"0": {
+    "doc": "01 Introduction to iNUX and the Handbook",
+    "title": "01 Introduction to iNUX and the Handbook",
+    "content": " ",
+    "url": "/generated/010000_en.html#01-introduction-to-inux-and-the-handbook",
+    
+    "relUrl": "/generated/010000_en.html#01-introduction-to-inux-and-the-handbook"
+  },"1": {
+    "doc": "01 Introduction to iNUX and the Handbook",
+    "title": "01 Introduction to iNUX and the Handbook",
+    "content": " ",
+    "url": "/generated/010000_en.html",
+    
+    "relUrl": "/generated/010000_en.html"
+  },"2": {
+    "doc": "01 What iNUX Is – And what is it not",
+    "title": "01 What iNUX Is – And what is it not",
+    "content": " ",
+    "url": "/generated/010100_en.html#01-what-inux-is--and-what-is-it-not",
+    
+    "relUrl": "/generated/010100_en.html#01-what-inux-is--and-what-is-it-not"
+  },"3": {
+    "doc": "01 What iNUX Is – And what is it not",
+    "title": "01 What iNUX Is – And what is it not",
+    "content": " ",
+    "url": "/generated/010100_en.html",
+    
+    "relUrl": "/generated/010100_en.html"
+  },"4": {
+    "doc": "02 Purpose of this Handbook",
+    "title": "02 Purpose of this Handbook",
+    "content": " ",
+    "url": "/generated/010200_en.html#02-purpose-of-this-handbook",
+    
+    "relUrl": "/generated/010200_en.html#02-purpose-of-this-handbook"
+  },"5": {
+    "doc": "02 Purpose of this Handbook",
+    "title": "02 Purpose of this Handbook",
+    "content": " ",
+    "url": "/generated/010200_en.html",
+    
+    "relUrl": "/generated/010200_en.html"
+  },"6": {
+    "doc": "03 Intended Audience",
+    "title": "03 Intended Audience",
+    "content": " ",
+    "url": "/generated/010300_en.html#03-intended-audience",
+    
+    "relUrl": "/generated/010300_en.html#03-intended-audience"
+  },"7": {
+    "doc": "03 Intended Audience",
+    "title": "03 Intended Audience",
+    "content": " ",
+    "url": "/generated/010300_en.html",
+    
+    "relUrl": "/generated/010300_en.html"
+  },"8": {
+    "doc": "04 Scope and Limitations",
+    "title": "04 Scope and Limitations",
+    "content": " ",
+    "url": "/generated/010400_en.html#04-scope-and-limitations",
+    
+    "relUrl": "/generated/010400_en.html#04-scope-and-limitations"
+  },"9": {
+    "doc": "04 Scope and Limitations",
+    "title": "04 Scope and Limitations",
+    "content": " ",
+    "url": "/generated/010400_en.html",
+    
+    "relUrl": "/generated/010400_en.html"
+  },"10": {
+    "doc": "02 iNUX Interactive Documents: Scope and Typology",
+    "title": "02 iNUX Interactive Documents: Scope and Typology",
+    "content": " ",
+    "url": "/generated/020000_en.html#02-inux-interactive-documents-scope-and-typology",
+    
+    "relUrl": "/generated/020000_en.html#02-inux-interactive-documents-scope-and-typology"
+  },"11": {
+    "doc": "02 iNUX Interactive Documents: Scope and Typology",
+    "title": "02 iNUX Interactive Documents: Scope and Typology",
+    "content": " ",
+    "url": "/generated/020000_en.html",
+    
+    "relUrl": "/generated/020000_en.html"
+  },"12": {
+    "doc": "01 Interactive Documents in iNUX",
+    "title": "01 Interactive Documents in iNUX",
+    "content": " ",
+    "url": "/generated/020100_en.html#01-interactive-documents-in-inux",
+    
+    "relUrl": "/generated/020100_en.html#01-interactive-documents-in-inux"
+  },"13": {
+    "doc": "01 Interactive Documents in iNUX",
+    "title": "01 Interactive Documents in iNUX",
+    "content": " ",
+    "url": "/generated/020100_en.html",
+    
+    "relUrl": "/generated/020100_en.html"
+  },"14": {
+    "doc": "02 Dimensions of Variation",
+    "title": "02 Dimensions of Variation",
+    "content": " ",
+    "url": "/generated/020200_en.html#02-dimensions-of-variation",
+    
+    "relUrl": "/generated/020200_en.html#02-dimensions-of-variation"
+  },"15": {
+    "doc": "02 Dimensions of Variation",
+    "title": "02 Dimensions of Variation",
+    "content": " ",
+    "url": "/generated/020200_en.html",
+    
+    "relUrl": "/generated/020200_en.html"
+  },"16": {
+    "doc": "03 Typical Types of Interactive Documents",
+    "title": "03 Typical Types of Interactive Documents",
+    "content": " ",
+    "url": "/generated/020300_en.html#03-typical-types-of-interactive-documents",
+    
+    "relUrl": "/generated/020300_en.html#03-typical-types-of-interactive-documents"
+  },"17": {
+    "doc": "03 Typical Types of Interactive Documents",
+    "title": "03 Typical Types of Interactive Documents",
+    "content": " ",
+    "url": "/generated/020300_en.html",
+    
+    "relUrl": "/generated/020300_en.html"
+  },"18": {
+    "doc": "01 Simple Interactive Visualizations",
+    "title": "01 Simple Interactive Visualizations",
+    "content": " ",
+    "url": "/generated/020301_en.html#01-simple-interactive-visualizations",
+    
+    "relUrl": "/generated/020301_en.html#01-simple-interactive-visualizations"
+  },"19": {
+    "doc": "01 Simple Interactive Visualizations",
+    "title": "01 Simple Interactive Visualizations",
+    "content": " ",
+    "url": "/generated/020301_en.html",
+    
+    "relUrl": "/generated/020301_en.html"
+  },"20": {
+    "doc": "02 Interactive Explanations and Standalone Applications",
+    "title": "02 Interactive Explanations and Standalone Applications",
+    "content": " ",
+    "url": "/generated/020302_en.html#02-interactive-explanations-and-standalone-applications",
+    
+    "relUrl": "/generated/020302_en.html#02-interactive-explanations-and-standalone-applications"
+  },"21": {
+    "doc": "02 Interactive Explanations and Standalone Applications",
+    "title": "02 Interactive Explanations and Standalone Applications",
+    "content": " ",
+    "url": "/generated/020302_en.html",
+    
+    "relUrl": "/generated/020302_en.html"
+  },"22": {
+    "doc": "03 Tutorials and Guided Learning Applications",
+    "title": "03 Tutorials and Guided Learning Applications",
+    "content": " ",
+    "url": "/generated/020303_en.html#03-tutorials-and-guided-learning-applications",
+    
+    "relUrl": "/generated/020303_en.html#03-tutorials-and-guided-learning-applications"
+  },"23": {
+    "doc": "03 Tutorials and Guided Learning Applications",
+    "title": "03 Tutorials and Guided Learning Applications",
+    "content": " ",
+    "url": "/generated/020303_en.html",
+    
+    "relUrl": "/generated/020303_en.html"
+  },"24": {
+    "doc": "04 Analytical and Processing-Oriented Applications",
+    "title": "04 Analytical and Processing-Oriented Applications",
+    "content": " ",
+    "url": "/generated/020304_en.html#04-analytical-and-processing-oriented-applications",
+    
+    "relUrl": "/generated/020304_en.html#04-analytical-and-processing-oriented-applications"
+  },"25": {
+    "doc": "04 Analytical and Processing-Oriented Applications",
+    "title": "04 Analytical and Processing-Oriented Applications",
+    "content": " ",
+    "url": "/generated/020304_en.html",
+    
+    "relUrl": "/generated/020304_en.html"
+  },"26": {
+    "doc": "05 Modules as Collections of Interactive Documents",
+    "title": "05 Modules as Collections of Interactive Documents",
+    "content": " ",
+    "url": "/generated/020305_en.html#05-modules-as-collections-of-interactive-documents",
+    
+    "relUrl": "/generated/020305_en.html#05-modules-as-collections-of-interactive-documents"
+  },"27": {
+    "doc": "05 Modules as Collections of Interactive Documents",
+    "title": "05 Modules as Collections of Interactive Documents",
+    "content": " ",
+    "url": "/generated/020305_en.html",
+    
+    "relUrl": "/generated/020305_en.html"
+  },"28": {
+    "doc": "04 Position of This Handbook",
+    "title": "04 Position of This Handbook",
+    "content": " ",
+    "url": "/generated/020400_en.html#04-position-of-this-handbook",
+    
+    "relUrl": "/generated/020400_en.html#04-position-of-this-handbook"
+  },"29": {
+    "doc": "04 Position of This Handbook",
+    "title": "04 Position of This Handbook",
+    "content": " ",
+    "url": "/generated/020400_en.html",
+    
+    "relUrl": "/generated/020400_en.html"
+  },"30": {
+    "doc": "03 Design and Structural Principles of iNUX Interactive Documents",
+    "title": "03 Design and Structural Principles of iNUX Interactive Documents",
+    "content": " ",
+    "url": "/generated/030000_en.html#03-design-and-structural-principles-of-inux-interactive-documents",
+    
+    "relUrl": "/generated/030000_en.html#03-design-and-structural-principles-of-inux-interactive-documents"
+  },"31": {
+    "doc": "03 Design and Structural Principles of iNUX Interactive Documents",
+    "title": "03 Design and Structural Principles of iNUX Interactive Documents",
+    "content": " ",
+    "url": "/generated/030000_en.html",
+    
+    "relUrl": "/generated/030000_en.html"
+  },"32": {
+    "doc": "01 Common Design Principles Across Interactive Documents",
+    "title": "01 Common Design Principles Across Interactive Documents",
+    "content": " ",
+    "url": "/generated/030100_en.html#01-common-design-principles-across-interactive-documents",
+    
+    "relUrl": "/generated/030100_en.html#01-common-design-principles-across-interactive-documents"
+  },"33": {
+    "doc": "01 Common Design Principles Across Interactive Documents",
+    "title": "01 Common Design Principles Across Interactive Documents",
+    "content": " ",
+    "url": "/generated/030100_en.html",
+    
+    "relUrl": "/generated/030100_en.html"
+  },"34": {
+    "doc": "02 Structural Building Blocks of Interactive Documents",
+    "title": "02 Structural Building Blocks of Interactive Documents",
+    "content": " ",
+    "url": "/generated/030200_en.html#02-structural-building-blocks-of-interactive-documents",
+    
+    "relUrl": "/generated/030200_en.html#02-structural-building-blocks-of-interactive-documents"
+  },"35": {
+    "doc": "02 Structural Building Blocks of Interactive Documents",
+    "title": "02 Structural Building Blocks of Interactive Documents",
+    "content": " ",
+    "url": "/generated/030200_en.html",
+    
+    "relUrl": "/generated/030200_en.html"
+  },"36": {
+    "doc": "03 Applying Design Principles Across Document Types",
+    "title": "03 Applying Design Principles Across Document Types",
+    "content": " ",
+    "url": "/generated/030300_en.html#03-applying-design-principles-across-document-types",
+    
+    "relUrl": "/generated/030300_en.html#03-applying-design-principles-across-document-types"
+  },"37": {
+    "doc": "03 Applying Design Principles Across Document Types",
+    "title": "03 Applying Design Principles Across Document Types",
+    "content": " ",
+    "url": "/generated/030300_en.html",
+    
+    "relUrl": "/generated/030300_en.html"
+  },"38": {
+    "doc": "04 Learning Objectives, Context, and Assessment",
+    "title": "04 Learning Objectives, Context, and Assessment",
+    "content": " ",
+    "url": "/generated/030400_en.html#04-learning-objectives-context-and-assessment",
+    
+    "relUrl": "/generated/030400_en.html#04-learning-objectives-context-and-assessment"
+  },"39": {
+    "doc": "04 Learning Objectives, Context, and Assessment",
+    "title": "04 Learning Objectives, Context, and Assessment",
+    "content": " ",
+    "url": "/generated/030400_en.html",
+    
+    "relUrl": "/generated/030400_en.html"
+  },"40": {
+    "doc": "05 Consistency and Flexibility Within the iNUX Ecosystem",
+    "title": "05 Consistency and Flexibility Within the iNUX Ecosystem",
+    "content": " ",
+    "url": "/generated/030500_en.html#05-consistency-and-flexibility-within-the-inux-ecosystem",
+    
+    "relUrl": "/generated/030500_en.html#05-consistency-and-flexibility-within-the-inux-ecosystem"
+  },"41": {
+    "doc": "05 Consistency and Flexibility Within the iNUX Ecosystem",
+    "title": "05 Consistency and Flexibility Within the iNUX Ecosystem",
+    "content": " ",
+    "url": "/generated/030500_en.html",
+    
+    "relUrl": "/generated/030500_en.html"
+  },"42": {
+    "doc": "06 Relation to Technical Implementation",
+    "title": "06 Relation to Technical Implementation",
+    "content": " ",
+    "url": "/generated/030600_en.html#06-relation-to-technical-implementation",
+    
+    "relUrl": "/generated/030600_en.html#06-relation-to-technical-implementation"
+  },"43": {
+    "doc": "06 Relation to Technical Implementation",
+    "title": "06 Relation to Technical Implementation",
+    "content": " ",
+    "url": "/generated/030600_en.html",
+    
+    "relUrl": "/generated/030600_en.html"
+  },"44": {
+    "doc": "04 Technical Framework and Implementation Logic for Interactive Documents",
+    "title": "04 Technical Framework and Implementation Logic for Interactive Documents",
+    "content": " ",
+    "url": "/generated/040000_en.html#04-technical-framework-and-implementation-logic-for-interactive-documents",
+    
+    "relUrl": "/generated/040000_en.html#04-technical-framework-and-implementation-logic-for-interactive-documents"
+  },"45": {
+    "doc": "04 Technical Framework and Implementation Logic for Interactive Documents",
+    "title": "04 Technical Framework and Implementation Logic for Interactive Documents",
+    "content": " ",
+    "url": "/generated/040000_en.html",
+    
+    "relUrl": "/generated/040000_en.html"
+  },"46": {
+    "doc": "01 Guiding Technical Principles",
+    "title": "01 Guiding Technical Principles",
+    "content": " ",
+    "url": "/generated/040100_en.html#01-guiding-technical-principles",
+    
+    "relUrl": "/generated/040100_en.html#01-guiding-technical-principles"
+  },"47": {
+    "doc": "01 Guiding Technical Principles",
+    "title": "01 Guiding Technical Principles",
+    "content": " ",
+    "url": "/generated/040100_en.html",
+    
+    "relUrl": "/generated/040100_en.html"
+  },"48": {
+    "doc": "02 Relation Between Content, Logic, and Visualization",
+    "title": "02 Relation Between Content, Logic, and Visualization",
+    "content": " ",
+    "url": "/generated/040200_en.html#02-relation-between-content-logic-and-visualization",
+    
+    "relUrl": "/generated/040200_en.html#02-relation-between-content-logic-and-visualization"
+  },"49": {
+    "doc": "02 Relation Between Content, Logic, and Visualization",
+    "title": "02 Relation Between Content, Logic, and Visualization",
+    "content": " ",
+    "url": "/generated/040200_en.html",
+    
+    "relUrl": "/generated/040200_en.html"
+  },"50": {
+    "doc": "03 Technical Platforms and Formats",
+    "title": "03 Technical Platforms and Formats",
+    "content": " ",
+    "url": "/generated/040300_en.html#03-technical-platforms-and-formats",
+    
+    "relUrl": "/generated/040300_en.html#03-technical-platforms-and-formats"
+  },"51": {
+    "doc": "03 Technical Platforms and Formats",
+    "title": "03 Technical Platforms and Formats",
+    "content": " ",
+    "url": "/generated/040300_en.html",
+    
+    "relUrl": "/generated/040300_en.html"
+  },"52": {
+    "doc": "04 From Interactive Document to Application and Modules",
+    "title": "04 From Interactive Document to Application and Modules",
+    "content": " ",
+    "url": "/generated/040400_en.html#04-from-interactive-document-to-application-and-modules",
+    
+    "relUrl": "/generated/040400_en.html#04-from-interactive-document-to-application-and-modules"
+  },"53": {
+    "doc": "04 From Interactive Document to Application and Modules",
+    "title": "04 From Interactive Document to Application and Modules",
+    "content": " ",
+    "url": "/generated/040400_en.html",
+    
+    "relUrl": "/generated/040400_en.html"
+  },"54": {
+    "doc": "05 Constraints and Design Trade-offs",
+    "title": "05 Constraints and Design Trade-offs",
+    "content": " ",
+    "url": "/generated/040500_en.html#05-constraints-and-design-trade-offs",
+    
+    "relUrl": "/generated/040500_en.html#05-constraints-and-design-trade-offs"
+  },"55": {
+    "doc": "05 Constraints and Design Trade-offs",
+    "title": "05 Constraints and Design Trade-offs",
+    "content": " ",
+    "url": "/generated/040500_en.html",
+    
+    "relUrl": "/generated/040500_en.html"
+  },"56": {
+    "doc": "05 Assessments, Question Pools, and Learning Evaluation",
+    "title": "05 Assessments, Question Pools, and Learning Evaluation",
+    "content": " ",
+    "url": "/generated/050000_en.html#05-assessments-question-pools-and-learning-evaluation",
+    
+    "relUrl": "/generated/050000_en.html#05-assessments-question-pools-and-learning-evaluation"
+  },"57": {
+    "doc": "05 Assessments, Question Pools, and Learning Evaluation",
+    "title": "05 Assessments, Question Pools, and Learning Evaluation",
+    "content": " ",
+    "url": "/generated/050000_en.html",
+    
+    "relUrl": "/generated/050000_en.html"
+  },"58": {
+    "doc": "01 Role of Assessment Within iNUX",
+    "title": "01 Role of Assessment Within iNUX",
+    "content": " ",
+    "url": "/generated/050100_en.html#01-role-of-assessment-within-inux",
+    
+    "relUrl": "/generated/050100_en.html#01-role-of-assessment-within-inux"
+  },"59": {
+    "doc": "01 Role of Assessment Within iNUX",
+    "title": "01 Role of Assessment Within iNUX",
+    "content": " ",
+    "url": "/generated/050100_en.html",
+    
+    "relUrl": "/generated/050100_en.html"
+  },"60": {
+    "doc": "02 Embedded Questions in Interactive Documents",
+    "title": "02 Embedded Questions in Interactive Documents",
+    "content": " ",
+    "url": "/generated/050200_en.html#02-embedded-questions-in-interactive-documents",
+    
+    "relUrl": "/generated/050200_en.html#02-embedded-questions-in-interactive-documents"
+  },"61": {
+    "doc": "02 Embedded Questions in Interactive Documents",
+    "title": "02 Embedded Questions in Interactive Documents",
+    "content": " ",
+    "url": "/generated/050200_en.html",
+    
+    "relUrl": "/generated/050200_en.html"
+  },"62": {
+    "doc": "03 Relation to the iNUX Question Pool",
+    "title": "03 Relation to the iNUX Question Pool",
+    "content": " ",
+    "url": "/generated/050300_en.html#03-relation-to-the-inux-question-pool",
+    
+    "relUrl": "/generated/050300_en.html#03-relation-to-the-inux-question-pool"
+  },"63": {
+    "doc": "03 Relation to the iNUX Question Pool",
+    "title": "03 Relation to the iNUX Question Pool",
+    "content": " ",
+    "url": "/generated/050300_en.html",
+    
+    "relUrl": "/generated/050300_en.html"
+  },"64": {
+    "doc": "04 Assessment Types and Levels of Integration",
+    "title": "04 Assessment Types and Levels of Integration",
+    "content": " ",
+    "url": "/generated/050400_en.html#04-assessment-types-and-levels-of-integration",
+    
+    "relUrl": "/generated/050400_en.html#04-assessment-types-and-levels-of-integration"
+  },"65": {
+    "doc": "04 Assessment Types and Levels of Integration",
+    "title": "04 Assessment Types and Levels of Integration",
+    "content": " ",
+    "url": "/generated/050400_en.html",
+    
+    "relUrl": "/generated/050400_en.html"
+  },"66": {
+    "doc": "05 Limitations and Boundaries",
+    "title": "05 Limitations and Boundaries",
+    "content": " ",
+    "url": "/generated/050500_en.html#05-limitations-and-boundaries",
+    
+    "relUrl": "/generated/050500_en.html#05-limitations-and-boundaries"
+  },"67": {
+    "doc": "05 Limitations and Boundaries",
+    "title": "05 Limitations and Boundaries",
+    "content": " ",
+    "url": "/generated/050500_en.html",
+    
+    "relUrl": "/generated/050500_en.html"
+  },"68": {
+    "doc": "06 Videos and Multimedia Resources",
+    "title": "06 Videos and Multimedia Resources",
+    "content": " ",
+    "url": "/generated/060000_en.html#06-videos-and-multimedia-resources",
+    
+    "relUrl": "/generated/060000_en.html#06-videos-and-multimedia-resources"
+  },"69": {
+    "doc": "06 Videos and Multimedia Resources",
+    "title": "06 Videos and Multimedia Resources",
+    "content": " ",
+    "url": "/generated/060000_en.html",
+    
+    "relUrl": "/generated/060000_en.html"
+  },"70": {
+    "doc": "01 Role of Videos Within iNUX",
+    "title": "01 Role of Videos Within iNUX",
+    "content": " ",
+    "url": "/generated/060100_en.html#01-role-of-videos-within-inux",
+    
+    "relUrl": "/generated/060100_en.html#01-role-of-videos-within-inux"
+  },"71": {
+    "doc": "01 Role of Videos Within iNUX",
+    "title": "01 Role of Videos Within iNUX",
+    "content": " ",
+    "url": "/generated/060100_en.html",
+    
+    "relUrl": "/generated/060100_en.html"
+  },"72": {
+    "doc": "02 Relation Between Videos and Interactive Documents",
+    "title": "02 Relation Between Videos and Interactive Documents",
+    "content": " ",
+    "url": "/generated/060200_en.html#02-relation-between-videos-and-interactive-documents",
+    
+    "relUrl": "/generated/060200_en.html#02-relation-between-videos-and-interactive-documents"
+  },"73": {
+    "doc": "02 Relation Between Videos and Interactive Documents",
+    "title": "02 Relation Between Videos and Interactive Documents",
+    "content": " ",
+    "url": "/generated/060200_en.html",
+    
+    "relUrl": "/generated/060200_en.html"
+  },"74": {
+    "doc": "03 Other Multimedia Elements",
+    "title": "03 Other Multimedia Elements",
+    "content": " ",
+    "url": "/generated/060300_en.html#03-other-multimedia-elements",
+    
+    "relUrl": "/generated/060300_en.html#03-other-multimedia-elements"
+  },"75": {
+    "doc": "03 Other Multimedia Elements",
+    "title": "03 Other Multimedia Elements",
+    "content": " ",
+    "url": "/generated/060300_en.html",
+    
+    "relUrl": "/generated/060300_en.html"
+  },"76": {
+    "doc": "07 Quality Assurance and Review Principles",
+    "title": "07 Quality Assurance and Review Principles",
+    "content": " ",
+    "url": "/generated/070000_en.html#07-quality-assurance-and-review-principles",
+    
+    "relUrl": "/generated/070000_en.html#07-quality-assurance-and-review-principles"
+  },"77": {
+    "doc": "07 Quality Assurance and Review Principles",
+    "title": "07 Quality Assurance and Review Principles",
+    "content": " ",
+    "url": "/generated/070000_en.html",
+    
+    "relUrl": "/generated/070000_en.html"
+  },"78": {
+    "doc": "01 Quality as a Shared Responsibility",
+    "title": "01 Quality as a Shared Responsibility",
+    "content": " ",
+    "url": "/generated/070100_en.html#01-quality-as-a-shared-responsibility",
+    
+    "relUrl": "/generated/070100_en.html#01-quality-as-a-shared-responsibility"
+  },"79": {
+    "doc": "01 Quality as a Shared Responsibility",
+    "title": "01 Quality as a Shared Responsibility",
+    "content": " ",
+    "url": "/generated/070100_en.html",
+    
+    "relUrl": "/generated/070100_en.html"
+  },"80": {
+    "doc": "02 Review and Feedback Processes",
+    "title": "02 Review and Feedback Processes",
+    "content": " ",
+    "url": "/generated/070200_en.html#02-review-and-feedback-processes",
+    
+    "relUrl": "/generated/070200_en.html#02-review-and-feedback-processes"
+  },"81": {
+    "doc": "02 Review and Feedback Processes",
+    "title": "02 Review and Feedback Processes",
+    "content": " ",
+    "url": "/generated/070200_en.html",
+    
+    "relUrl": "/generated/070200_en.html"
+  },"82": {
+    "doc": "03 Consistency Across Resources",
+    "title": "03 Consistency Across Resources",
+    "content": " ",
+    "url": "/generated/070300_en.html#03-consistency-across-resources",
+    
+    "relUrl": "/generated/070300_en.html#03-consistency-across-resources"
+  },"83": {
+    "doc": "03 Consistency Across Resources",
+    "title": "03 Consistency Across Resources",
+    "content": " ",
+    "url": "/generated/070300_en.html",
+    
+    "relUrl": "/generated/070300_en.html"
+  },"84": {
+    "doc": "04 Versioning and Evolution",
+    "title": "04 Versioning and Evolution",
+    "content": " ",
+    "url": "/generated/070400_en.html#04-versioning-and-evolution",
+    
+    "relUrl": "/generated/070400_en.html#04-versioning-and-evolution"
+  },"85": {
+    "doc": "04 Versioning and Evolution",
+    "title": "04 Versioning and Evolution",
+    "content": " ",
+    "url": "/generated/070400_en.html",
+    
+    "relUrl": "/generated/070400_en.html"
+  },"86": {
+    "doc": "05 Handling Limitations and Known Issues",
+    "title": "05 Handling Limitations and Known Issues",
+    "content": " ",
+    "url": "/generated/070500_en.html#05-handling-limitations-and-known-issues",
+    
+    "relUrl": "/generated/070500_en.html#05-handling-limitations-and-known-issues"
+  },"87": {
+    "doc": "05 Handling Limitations and Known Issues",
+    "title": "05 Handling Limitations and Known Issues",
+    "content": " ",
+    "url": "/generated/070500_en.html",
+    
+    "relUrl": "/generated/070500_en.html"
+  },"88": {
+    "doc": "08 Licensing and Reuse, and Contribution",
+    "title": "08 Licensing and Reuse, and Contribution",
+    "content": " ",
+    "url": "/generated/080000_en.html#08-licensing-and-reuse-and-contribution",
+    
+    "relUrl": "/generated/080000_en.html#08-licensing-and-reuse-and-contribution"
+  },"89": {
+    "doc": "08 Licensing and Reuse, and Contribution",
+    "title": "08 Licensing and Reuse, and Contribution",
+    "content": " ",
+    "url": "/generated/080000_en.html",
+    
+    "relUrl": "/generated/080000_en.html"
+  },"90": {
+    "doc": "01 Open Use Philosophy of iNUX",
+    "title": "01 Open Use Philosophy of iNUX",
+    "content": " ",
+    "url": "/generated/080100_en.html#01-open-use-philosophy-of-inux",
+    
+    "relUrl": "/generated/080100_en.html#01-open-use-philosophy-of-inux"
+  },"91": {
+    "doc": "01 Open Use Philosophy of iNUX",
+    "title": "01 Open Use Philosophy of iNUX",
+    "content": " ",
+    "url": "/generated/080100_en.html",
+    
+    "relUrl": "/generated/080100_en.html"
+  },"92": {
+    "doc": "02 Licensing of iNUX Resources",
+    "title": "02 Licensing of iNUX Resources",
+    "content": " ",
+    "url": "/generated/080200_en.html#02-licensing-of-inux-resources",
+    
+    "relUrl": "/generated/080200_en.html#02-licensing-of-inux-resources"
+  },"93": {
+    "doc": "02 Licensing of iNUX Resources",
+    "title": "02 Licensing of iNUX Resources",
+    "content": " ",
+    "url": "/generated/080200_en.html",
+    
+    "relUrl": "/generated/080200_en.html"
+  },"94": {
+    "doc": "03 Reuse and Adaptation in Educational Contexts",
+    "title": "03 Reuse and Adaptation in Educational Contexts",
+    "content": " ",
+    "url": "/generated/080300_en.html#03-reuse-and-adaptation-in-educational-contexts",
+    
+    "relUrl": "/generated/080300_en.html#03-reuse-and-adaptation-in-educational-contexts"
+  },"95": {
+    "doc": "03 Reuse and Adaptation in Educational Contexts",
+    "title": "03 Reuse and Adaptation in Educational Contexts",
+    "content": " ",
+    "url": "/generated/080300_en.html",
+    
+    "relUrl": "/generated/080300_en.html"
+  },"96": {
+    "doc": "04 Contributions and Collaborative Development",
+    "title": "04 Contributions and Collaborative Development",
+    "content": " ",
+    "url": "/generated/080400_en.html#04-contributions-and-collaborative-development",
+    
+    "relUrl": "/generated/080400_en.html#04-contributions-and-collaborative-development"
+  },"97": {
+    "doc": "04 Contributions and Collaborative Development",
+    "title": "04 Contributions and Collaborative Development",
+    "content": " ",
+    "url": "/generated/080400_en.html",
+    
+    "relUrl": "/generated/080400_en.html"
+  },"98": {
+    "doc": "09 Collaboration and Contribution Workflows",
+    "title": "09 Collaboration and Contribution Workflows",
+    "content": " ",
+    "url": "/generated/090000_en.html#09-collaboration-and-contribution-workflows",
+    
+    "relUrl": "/generated/090000_en.html#09-collaboration-and-contribution-workflows"
+  },"99": {
+    "doc": "09 Collaboration and Contribution Workflows",
+    "title": "09 Collaboration and Contribution Workflows",
+    "content": " ",
+    "url": "/generated/090000_en.html",
+    
+    "relUrl": "/generated/090000_en.html"
+  },"100": {
+    "doc": "01 Roles and Responsibilities",
+    "title": "01 Roles and Responsibilities",
+    "content": " ",
+    "url": "/generated/090100_en.html#01-roles-and-responsibilities",
+    
+    "relUrl": "/generated/090100_en.html#01-roles-and-responsibilities"
+  },"101": {
+    "doc": "01 Roles and Responsibilities",
+    "title": "01 Roles and Responsibilities",
+    "content": " ",
+    "url": "/generated/090100_en.html",
+    
+    "relUrl": "/generated/090100_en.html"
+  },"102": {
+    "doc": "02 Contribution Pathways",
+    "title": "02 Contribution Pathways",
+    "content": " ",
+    "url": "/generated/090200_en.html#02-contribution-pathways",
+    
+    "relUrl": "/generated/090200_en.html#02-contribution-pathways"
+  },"103": {
+    "doc": "02 Contribution Pathways",
+    "title": "02 Contribution Pathways",
+    "content": " ",
+    "url": "/generated/090200_en.html",
+    
+    "relUrl": "/generated/090200_en.html"
+  },"104": {
+    "doc": "03 Review, Integration, and Iteration",
+    "title": "03 Review, Integration, and Iteration",
+    "content": " ",
+    "url": "/generated/090300_en.html#03-review-integration-and-iteration",
+    
+    "relUrl": "/generated/090300_en.html#03-review-integration-and-iteration"
+  },"105": {
+    "doc": "03 Review, Integration, and Iteration",
+    "title": "03 Review, Integration, and Iteration",
+    "content": " ",
+    "url": "/generated/090300_en.html",
+    
+    "relUrl": "/generated/090300_en.html"
+  },"106": {
+    "doc": "04 Supporting Long-Term Collaboration",
+    "title": "04 Supporting Long-Term Collaboration",
+    "content": " ",
+    "url": "/generated/090400_en.html#04-supporting-long-term-collaboration",
+    
+    "relUrl": "/generated/090400_en.html#04-supporting-long-term-collaboration"
+  },"107": {
+    "doc": "04 Supporting Long-Term Collaboration",
+    "title": "04 Supporting Long-Term Collaboration",
+    "content": " ",
+    "url": "/generated/090400_en.html",
+    
+    "relUrl": "/generated/090400_en.html"
+  },"108": {
+    "doc": "10 Outlook and Future Development",
+    "title": "10 Outlook and Future Development",
+    "content": " ",
+    "url": "/generated/100000_en.html#10-outlook-and-future-development",
+    
+    "relUrl": "/generated/100000_en.html#10-outlook-and-future-development"
+  },"109": {
+    "doc": "10 Outlook and Future Development",
+    "title": "10 Outlook and Future Development",
+    "content": " ",
+    "url": "/generated/100000_en.html",
+    
+    "relUrl": "/generated/100000_en.html"
+  },"110": {
+    "doc": "01 Evolution of iNUX Resources",
+    "title": "01 Evolution of iNUX Resources",
+    "content": " ",
+    "url": "/generated/100100_en.html#01-evolution-of-inux-resources",
+    
+    "relUrl": "/generated/100100_en.html#01-evolution-of-inux-resources"
+  },"111": {
+    "doc": "01 Evolution of iNUX Resources",
+    "title": "01 Evolution of iNUX Resources",
+    "content": " ",
+    "url": "/generated/100100_en.html",
+    
+    "relUrl": "/generated/100100_en.html"
+  },"112": {
+    "doc": "02 Role of the Handbook as a Living Document",
+    "title": "02 Role of the Handbook as a Living Document",
+    "content": " ",
+    "url": "/generated/100200_en.html#02-role-of-the-handbook-as-a-living-document",
+    
+    "relUrl": "/generated/100200_en.html#02-role-of-the-handbook-as-a-living-document"
+  },"113": {
+    "doc": "02 Role of the Handbook as a Living Document",
+    "title": "02 Role of the Handbook as a Living Document",
+    "content": " ",
+    "url": "/generated/100200_en.html",
+    
+    "relUrl": "/generated/100200_en.html"
+  },"114": {
+    "doc": "03 Concluding Remarks",
+    "title": "03 Concluding Remarks",
+    "content": " ",
+    "url": "/generated/100300_en.html#03-concluding-remarks",
+    
+    "relUrl": "/generated/100300_en.html#03-concluding-remarks"
+  },"115": {
+    "doc": "03 Concluding Remarks",
+    "title": "03 Concluding Remarks",
+    "content": " ",
+    "url": "/generated/100300_en.html",
+    
+    "relUrl": "/generated/100300_en.html"
+  },"116": {
+    "doc": "11 Annex",
+    "title": "11 Annex",
+    "content": " ",
+    "url": "/generated/110000_en.html#11-annex",
+    
+    "relUrl": "/generated/110000_en.html#11-annex"
+  },"117": {
+    "doc": "11 Annex",
+    "title": "11 Annex",
+    "content": " ",
+    "url": "/generated/110000_en.html",
+    
+    "relUrl": "/generated/110000_en.html"
+  },"118": {
+    "doc": "01 Annex 1 – Instructions and Workflows",
+    "title": "01 Annex 1 – Instructions and Workflows",
+    "content": " ",
+    "url": "/generated/110100_en.html#01-annex-1--instructions-and-workflows",
+    
+    "relUrl": "/generated/110100_en.html#01-annex-1--instructions-and-workflows"
+  },"119": {
+    "doc": "01 Annex 1 – Instructions and Workflows",
+    "title": "01 Annex 1 – Instructions and Workflows",
+    "content": " ",
+    "url": "/generated/110100_en.html",
+    
+    "relUrl": "/generated/110100_en.html"
+  },"120": {
+    "doc": "02 Annex 2 – Tools and Helpers",
+    "title": "02 Annex 2 – Tools and Helpers",
+    "content": " ",
+    "url": "/generated/110200_en.html#02-annex-2--tools-and-helpers",
+    
+    "relUrl": "/generated/110200_en.html#02-annex-2--tools-and-helpers"
+  },"121": {
+    "doc": "02 Annex 2 – Tools and Helpers",
+    "title": "02 Annex 2 – Tools and Helpers",
+    "content": " ",
+    "url": "/generated/110200_en.html",
+    
+    "relUrl": "/generated/110200_en.html"
+  },"122": {
+    "doc": "01 TransferAce",
+    "title": "01 TransferAce",
+    "content": " ",
+    "url": "/generated/110201_en.html#01-transferace",
+    
+    "relUrl": "/generated/110201_en.html#01-transferace"
+  },"123": {
+    "doc": "01 TransferAce",
+    "title": "01 TransferAce",
+    "content": " ",
+    "url": "/generated/110201_en.html",
+    
+    "relUrl": "/generated/110201_en.html"
+  },"124": {
+    "doc": "02 CataLogger",
+    "title": "02 CataLogger",
+    "content": " ",
+    "url": "/generated/110202_en.html#02-catalogger",
+    
+    "relUrl": "/generated/110202_en.html#02-catalogger"
+  },"125": {
+    "doc": "02 CataLogger",
+    "title": "02 CataLogger",
+    "content": " ",
+    "url": "/generated/110202_en.html",
+    
+    "relUrl": "/generated/110202_en.html"
+  },"126": {
+    "doc": "12 Acknowledgment",
+    "title": "12 Acknowledgment",
+    "content": " ",
+    "url": "/generated/120000_en.html#12-acknowledgment",
+    
+    "relUrl": "/generated/120000_en.html#12-acknowledgment"
+  },"127": {
+    "doc": "12 Acknowledgment",
+    "title": "12 Acknowledgment",
+    "content": " ",
+    "url": "/generated/120000_en.html",
+    
+    "relUrl": "/generated/120000_en.html"
+  },"128": {
+    "doc": "13 References",
+    "title": "13 References",
+    "content": " ",
+    "url": "/generated/130000_en.html#13-references",
+    
+    "relUrl": "/generated/130000_en.html#13-references"
+  },"129": {
+    "doc": "13 References",
+    "title": "13 References",
+    "content": " ",
+    "url": "/generated/130000_en.html",
+    
+    "relUrl": "/generated/130000_en.html"
+  },"130": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"131": {
+    "doc": "Welcome",
+    "title": "The iNUX Project",
+    "content": "The overall aim of iNUX is to enhance interactive understanding of groundwater hydrology and hydrogeology by providing digitally enhanced teaching material like Videos, Jupyter Notebooks, and electronic assessments together with instructions for teachers about how to use the materials and how to contribute to the established material pools. iNUX is an ERASMUS+ cooperation project running from 2022 to 2025. The project is a collaboration of the University Polytecnica Catalunia Barcelona, the Technical University Dresden, and the universities of Gothenburg and Graz. Increasing the number of cooperation partners as well as establishing continuing working groups are further aims of iNUX. More detailed information about the materials, how to use them, and how to cooperate and contribute to the project are available in the specific sections of the page. ",
+    "url": "/#the-inux-project",
+    
+    "relUrl": "/#the-inux-project"
+  }
+}
