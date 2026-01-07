@@ -8,4 +8,7 @@ gem "just-the-docs", "0.9.0" # pinned to the current release
 gem "csv"
 gem "logger"
 gem "base64"
-gem "wdm", ">= 0.1.0" if Gem.win_platform?
+platforms :mswin, :mingw, :x64_mingw do
+  gem "wdm", ">= 0.1.0"
+end
+
