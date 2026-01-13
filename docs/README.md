@@ -1,6 +1,6 @@
 # The iNUX Handbook Repository
 
-This repository hosts the **iNUX Handbook** and a set of accompanying **project reports** developed within the ERASMUS+ project *iNUX – Interactive Understanding of Groundwater Hydrology and Hydrogeology*. Together, these materials document concepts, methods, and examples for the development and use of innovative, open-source educational resources in hydrogeology and groundwater management.
+This repository hosts the **iNUX Handbook** and a set of accompanying **project reports** developed within the ERASMUS+ project ***iNUX – Interactive Understanding of Groundwater Hydrology and Hydrogeology***.
 
 ### Scope and Content
 
