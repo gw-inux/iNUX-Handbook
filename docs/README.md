@@ -1,5 +1,7 @@
 # The iNUX Handbook Repository
 
+👉 [**Quick Access**](https://gw-inux.github.io/iNUX-Handbook/)
+
 This repository hosts the **iNUX Handbook** and a set of accompanying **project reports** developed within the ERASMUS+ project ***iNUX – Interactive Understanding of Groundwater Hydrology and Hydrogeology***.
 
 ### Scope and Content
