@@ -133,38 +133,53 @@ EU_BLOCK_MARKER = "<!-- EU_FUNDING_FOOTER -->"
 
 EU_FUNDING_BLOCK = r"""
 <!-- EU_FUNDING_FOOTER -->
-<div style="margin-top:1.25rem; font-size:0.8rem; line-height:1.35;">
-  <img src='{{ "/assets/images/eu-funded.jpg" | relative_url }}'
-       alt="Co-funded by the European Union"
-       style="height:28px; width:auto; vertical-align:middle; margin-right:0.5rem;">
-  <span>
-    This project is co-funded by the European Union. However, the views and opinions expressed are solely those of the author(s) and do not necessarily reflect those of the European Union or the National Agency DAAD. Neither the European Union nor the granting authority can be held responsible for them.
-  </span>
+<hr style="margin:0.4rem 0;">
+
+<div style="
+  display:flex;
+  align-items:center;
+  gap:0.75rem;
+  font-size:0.8rem;
+  line-height:1.35;
+">
+  <div style="flex:0 0 160px; text-align:center;">
+    <img src='{{ "/assets/images/eu-funded.jpg" | relative_url }}'
+         alt="Co-funded by the European Union"
+         style="max-width:160px; height:auto;">
+  </div>
+  <div style="flex:1; text-align:justify; hyphens:auto;">
+    This project is co-funded by the European Union. However, the views and opinions
+    expressed are solely those of the author(s) and do not necessarily reflect those
+    of the European Union or the National Agency DAAD. Neither the European Union nor
+    the granting authority can be held responsible for them.
+  </div>
 </div>
 """.strip() + "\n"
+
 
 
 # Remove old/new EU blocks (anywhere), then append the new one at the end.
 EU_BLOCK_REMOVE_RE = re.compile(
     r"""
-    (?:\n{0,2}---\s*\n{0,2})?          # optional horizontal rule directly before the block
+    # Remove EU footer variants only if they sit at the very end of the file
+    (?:\n{0,2}(?:---\s*\n{0,2})?)?                 # optional markdown hr before
+    (?:\s*<hr\b[^>]*>\s*)?                        # optional html hr before
     \s*
-    (?:<!--\s*EU_FUNDING_FOOTER\s*-->  # new marker
-        .*?
-     )
-    \s*
-    (?=\Z)                             # only if it’s at the very end
+    (?:<!--\s*EU_FUNDING_FOOTER\s*-->.*?)(?=\Z)    # marker-based footer (any content) at end
     |
-    (?:\n{0,2}---\s*\n{0,2})?          # optional horizontal rule directly before the block
+    (?:\n{0,2}(?:---\s*\n{0,2})?)?
+    (?:\s*<hr\b[^>]*>\s*)?
     \s*
     <table\b.*?eu-funded\.jpg.*?</table>\s*(?=\Z)  # old table version at end
     |
-    (?:\n{0,2}---\s*\n{0,2})?          # optional horizontal rule directly before the block
+    (?:\n{0,2}(?:---\s*\n{0,2})?)?
+    (?:\s*<hr\b[^>]*>\s*)?
     \s*
-    <div\b.*?eu-funded\.jpg.*?</div>\s*(?=\Z)      # just in case a div version exists already
+    <div\b.*?eu-funded\.jpg.*?</div>\s*(?=\Z)      # older div version at end
     """,
     flags=re.IGNORECASE | re.DOTALL | re.VERBOSE,
 )
+
 
 
 def ensure_eu_block_at_end(md_body: str) -> str:
@@ -180,7 +195,7 @@ def ensure_eu_block_at_end(md_body: str) -> str:
     body = re.sub(EU_BLOCK_REMOVE_RE, "", body).rstrip()
 
     # 2) Append the new one
-    body = body + "\n\n---\n\n" + EU_FUNDING_BLOCK
+    body = body + "\n\n" + EU_FUNDING_BLOCK
     return body
 
 
