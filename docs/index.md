@@ -22,7 +22,7 @@ This document was created within the ERASMUS+ project iNUX.
   display:flex;
   align-items:center;
   gap:0.75rem;
-  font-size:0.8rem;
+  font-size:0.6rem;
   line-height:1.35;
 ">
   <div style="flex:0 0 160px; text-align:center;">
